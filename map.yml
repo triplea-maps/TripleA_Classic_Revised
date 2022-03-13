@@ -1,0 +1,4 @@
+map_name: TripleA_Classic_Revised
+games:
+- {game_name: TripleA Classic Revised, file_name: TripleA_Classic_Revised.xml}
+version: 0
